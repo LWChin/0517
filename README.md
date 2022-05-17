@@ -16,4 +16,5 @@ This course require students to use the us code to develop our project and push 
 	  git remote add origin https://github.com/LWChin/0517.git
 	  git push -u origin main
     ```
- 5. 
+ 5. 安裝 python extension module in vs code (package controller)
+ 6. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LWChin/0517.git/edit/master/notebooks/colab-github-demo.ipynb)
