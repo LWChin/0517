@@ -15,5 +15,5 @@ This course require students to use the us code to develop our project and push 
 	  git branch -M main
 	  git remote add origin https://github.com/LWChin/0517.git
 	  git push -u origin main
-    ``` text
+    ```
  5. 
