@@ -7,13 +7,13 @@ This course require students to use the us code to develop our project and push 
  1. Register a github account (done)
  2. New a repository on the github
  3. Open VS code then git clone this repository
- 4. ''' text
+ 4. ``` text
     echo "# 0517" >> README.md
 	  git init
 	  git add README.md
 	  git commit -m "first commit"
 	  git branch -M main
-	  git remote add origin https://github.com/huanchen1107/0517.git
+	  git remote add origin https://github.com/LWChin/0517.git
 	  git push -u origin main
-    ''' text
+    ``` text
  5. 
